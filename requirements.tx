@@ -1,0 +1,18 @@
+# Code Execution Service Requirements
+# Core dependencies
+Flask==2.0.1
+Flask-Cors==3.0.10
+
+# Docker functionality
+docker==5.0.3
+
+# React frontend dependencies are managed via package.json
+
+# System Requirements
+# - Python 3.9 or higher
+# - Docker engine installed and running
+# - Node.js 16+ (for frontend development)
+# - npm or yarn (for frontend package management)
+
+# Installation:
+# pip install -r requirements.txt
